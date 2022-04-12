@@ -1,4 +1,4 @@
-# td-differental_equations
+# 연립 미분방정식으로 디펜스 게임 결과 예측
 
 To do list
 
